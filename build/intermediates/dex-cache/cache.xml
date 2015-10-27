@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-374606c6dca8d3591587b6f2dafa0452d908b36d.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\pre-dexed\debug\classes-ad420dd477a7090da15b472a4c9b88ee035944aa.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\pre-dexed\debug\mail-09fdc29c9ca785f03182b51a506dd06b0acdfb4a.jar" />
+    </item>
+    <item
+        jar="E:\Android\Development\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-8e0751ee54a1dd8494f260c4a55965e3d066defe.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\pre-dexed\debug\additionnal-70934808e9b64d7a2f69a1ce40c1cfbf4cb1a4b6.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\pre-dexed\debug\classes-bd2b083fe8ced06683cd4df7c1a8638e98ea70c5.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="E:\Android\Workspace\StudioWorkspace\SendingMailAutomatic\app\build\intermediates\pre-dexed\debug\activation-05cf5736f88e011ea591bfad84c7835e01945a14.jar" />
+    </item>
+
+</items>
